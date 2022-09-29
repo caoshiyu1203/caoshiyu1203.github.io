@@ -1,4 +1,3 @@
-.block-content .resize{
-  display: inline-flex;
-  align-items: center;
+a.external-link[href*='orcid.org']::after {
+    content: url(https://raw.githubusercontent.com/caoshiyu1203/PicGo/master/ORCIDiD3.png?token=ATMVB2AOKZQBKB57UICB4OTDGVM2C);
 }
